@@ -1,0 +1,76 @@
+main {
+    background-color:#FAFAFA;
+    color:#212121;
+}
+section {
+    padding:0.5% 10%
+}
+p {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+header, footer {
+    text-align:center;
+    padding:1%;
+}
+header {
+    border-bottom: 1px solid #212121;
+    color:#212121;
+}
+footer {
+    background-color:#607D8B;
+    color:#FAFAFA;
+    text-align:center;
+    padding:1%;
+}
+footer a {
+    color: #EF5350;
+}
+#header-background {
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width:100%;
+}
+#header-background video {
+    width: 100%;
+    height: auto;
+}
+#profilePicture {
+    width: 25%;
+    webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -ms-border-radius:50%;
+    border-radius:50%;
+}
+.icon {
+    width: 6%;
+    height: auto;
+}
+.shadow {
+    webkit-box-shadow:0 2px 3px #BDBDBD;
+    -moz-box-shadow:0 2px 3px #BDBDBD;
+    -ms-box-shadow:0 2px 3px #BDBDBD;
+    box-shadow:0 2px 3px #BDBDBD;
+}
+.inner {
+    background-color:#FAFAFA;
+    padding: 5%;
+    margin: 1%;
+}
+.heading {
+    cursor: pointer;
+    color: #EF5350;
+    text-align:center;
+    padding:2%;
+}
+.name {
+    border-bottom:1px solid #BDBDBD;
+    padding-bottom:2%;
+}
+.section {
+    background-color:#EEEEEE;
+    padding:5%;
+    margin: 1%;
+}
