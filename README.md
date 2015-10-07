@@ -1,9 +1,11 @@
 # html-css-jquery-workshop
 
-Building a basic static resume with HTML, CSS, and jQuery, and deploying to GitHub static pages.
+Intro to the web workshop.
 
-//TODO:
-Fill out dummy resume for Rubber the Duck (skills: html/css)
-Simply style and incorporate Bootstrap (CDN before style)
-Incoporate jQuery (CSN before script); create moving background color? (etc)
-Add instructions for GH deployment (fork repo, edit and push, publish to branches page, visit via username)
+Building a basic static resume with HTML, CSS, and jQuery, and deploying to GitHub Pages.
+
+## Further Learning
+[Codecademy](https://www.codecademy.com/learn)
+[W3Schools](http://www.w3schools.com/)
+[MDN: Getting Started with the Web](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web)
+[Kahn Academy](https://www.khanacademy.org/computing/computer-programming)
