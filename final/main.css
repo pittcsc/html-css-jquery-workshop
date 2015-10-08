@@ -1,3 +1,4 @@
+/* elements */
 main {
     background-color:#FAFAFA;
     color:#212121;
@@ -20,12 +21,11 @@ header {
 footer {
     background-color:#607D8B;
     color:#FAFAFA;
-    text-align:center;
-    padding:1%;
 }
 footer a {
     color: #EF5350;
 }
+/* IDs */
 #header-background {
     position: fixed;
     z-index: -1;
@@ -44,6 +44,7 @@ footer a {
     -ms-border-radius:50%;
     border-radius:50%;
 }
+/* classes */
 .icon {
     width: 6%;
     height: auto;
@@ -54,10 +55,12 @@ footer a {
     -ms-box-shadow:0 2px 3px #BDBDBD;
     box-shadow:0 2px 3px #BDBDBD;
 }
+.section, .inner {
+    padding:5%;
+    margin: 1%;
+}
 .inner {
     background-color:#FAFAFA;
-    padding: 5%;
-    margin: 1%;
 }
 .heading {
     cursor: pointer;
@@ -71,6 +74,4 @@ footer a {
 }
 .section {
     background-color:#EEEEEE;
-    padding:5%;
-    margin: 1%;
 }

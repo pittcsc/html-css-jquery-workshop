@@ -1,3 +1,4 @@
+/* elements */
 main {
     background-color:#FAFAFA;
     color:#212121;
@@ -9,22 +10,34 @@ p {
 header, footer {
 }
 header {
+    color:#212121;
 }
 footer {
     background-color:#607D8B;
     color:#FAFAFA;
 }
 footer a {
+    color: #EF5350;
 }
+/* IDs */
 #header-background {
 }
 #header-background video {
 }
 #profilePicture {
+    webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -ms-border-radius:50%;
+
 }
+/* classes */
 .icon {
 }
 .shadow {
+    webkit-box-shadow:0 2px 3px #BDBDBD;
+    -moz-box-shadow:0 2px 3px #BDBDBD;
+    -ms-box-shadow:0 2px 3px #BDBDBD;
+
 }
 .inner {
     background-color:#FAFAFA;
