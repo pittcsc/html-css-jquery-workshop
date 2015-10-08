@@ -1,0 +1,14 @@
+{
+  "name": "html-css-jquery-workshop",
+  "description": "The Web Development Workshop",
+  "scripts": {
+    "start": "node_modules/reveal-md/bin/server-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitt-csc/html-css-jquery.git"
+  },
+  "dependencies": {
+    "reveal-md": "0.0.19"
+  }
+}
